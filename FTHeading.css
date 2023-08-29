@@ -1,0 +1,14 @@
+.Heading{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0);
+    transition: 0.5s;
+    display: block;
+    margin-top: 10px;
+    color: darkred;
+}
+.Heading:hover{
+    transform: scale(1.3);
+    z-index: 1;
+    color: indigo;
+}

@@ -1,0 +1,61 @@
+.navbar{
+    background-color: rgb(12, 13, 13);
+    border-radius: 6px;
+
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    /* float: left;
+    list-style: none;
+    margin: 13px 20px; */
+}
+.Login{
+    float: right;
+    /* margin-right: 50px; */
+    position: absolute;
+    top: 50px;
+    right: 100px;
+    font-size:larger;
+    
+}
+.post{
+    float: right;
+    position: absolute;
+    /* margin-right: 100px; */
+    top: 50px;
+    right: 200px;
+    font-size:larger;
+    
+    
+}
+.navbar li a{
+    /* padding: 3px 3px; */
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: red;
+}
+
+.search{
+    /* float: right; */
+    margin-right: px;
+    color: white;
+    padding: 10px 52px;
+
+}
+.search input{
+    border: 2px solid black;
+    border-radius: 10px;
+    position: absolute;
+    right: 280px;
+    width: 1000px;
+    top: 52px;
+}
+.Deakin{
+    position: absolute;
+    top: 50px;
+    font-size:larger;
+}
